@@ -12,7 +12,7 @@
 
 ---
     
-### Mini Projects
+### Mini Project
      Load Image
      Convert to Grayscale
      Save Image 
